@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "chinacaa/dsh-session-save",
+  "name": "dsh-session-save",
+  "repository": "https://github.com/chinacaa/dsh-session-save",
+  "category": "session",
+  "description": {
+    "en": "Save a DSH session as a single .dsproj project file with Word-style save, save-as and autosave, then open it on another machine to continue the conversation. Native file dialogs on Windows, macOS and Linux.",
+    "zh": "把 DSH 会话存成单个 .dsproj 工程文件，像 Word 一样保存、另存和自动保存，换台机器打开就能接着聊。Windows / macOS / Linux 均有原生文件对话框。"
+  },
+  "added": "2026-10-26"
+}
